@@ -1,4 +1,4 @@
-# Data-Structure-Algorithms-in-C
+# Data-Structure-in-C
 
 In This Repository , I commit Some programs which contains Practical implementation of Data Structures Such As 
 
